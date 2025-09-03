@@ -1,1 +1,2 @@
-mountpoints: https://main--aem_tutorial--raydot.aem.page/
+mountpoints:
+  /: https://drive.google.com/drive/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
