@@ -1,0 +1,6 @@
+// filepath: /Users/davekanter/Documents/Dave/aem_tutorial/helix-config.yaml
+version: 1
+
+contentSources:
+  - mountpoint: /
+    url: https://drive.google.com/drive/folders/124P4eRXdk68yZl3hB_Vl3kceWAKl1iPG
